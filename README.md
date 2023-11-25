@@ -37,6 +37,11 @@ A few punchy images will really help your page stand out, and make it your own. 
 #### A background image, approximately 1500x700 pixels.
 ![Background image](https://www.imageshine.in/uploads/gallery/Free-vector-abstract-shape-with-halftone-background.jpg)
 #### At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
+![Listening room1](https://github.com/AgateHunter/portfolio-prep/blob/main/images/Listening1.png?raw=true)
+
 ![Listening room 2](https://github.com/AgateHunter/portfolio-prep/blob/main/images/Listening2.png?raw=true)
+
+![Listening room3](https://github.com/AgateHunter/portfolio-prep/blob/main/images/Listening3.png?raw=true)
+
 #### At least three screenshots each, of two other projects you have worked on. Salmon Cookies? Odd Duck?
 
