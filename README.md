@@ -35,7 +35,7 @@ I bring a unique blend of technical expertise and a deep understanding of divers
 A few punchy images will really help your page stand out, and make it your own. Gather images for the following:
 .
 #### A headshot of your wonderful face, approximately 200x250 pixels.
-![Natalie's Headshot](https://github.com/AgateHunter/portfolio-prep/blob/main/images/headshot.jpg))
+![Natalie's Headshot](https://github.com/AgateHunter/portfolio-prep/blob/main/images/headshot1.jpg?raw=true)
 #### A background image, approximately 1500x700 pixels.
 ![Background image](https://www.imageshine.in/uploads/gallery/Free-vector-abstract-shape-with-halftone-background.jpg)
 #### At least three screenshots of the best-looking parts of a previous project, like your Code 201 final project.
