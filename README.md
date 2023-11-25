@@ -24,9 +24,7 @@ Fullstack Developer | Technical Program Manager | Humanitarian | Educational Adv
 
 ### Your professional pitch: You’ve done a recording, so just write down here how it goes.
  
-Hello, I'm Natalie Stone, a dedicated software developer with a purpose of amplifying access and opportunities through purposeful code. Equipped with a Bachelor's degree in Sociology, a Master's degree in Student Affairs Administration, and certifications as a Project Management and Change Management Professional.
-
-My journey spans over 15 years in higher education, and over 21 years in the Army National Guard, where I served as a musician prior to retiring. Whether it's solving problems or fostering creativity, I've witnessed firsthand the impact of software applications. This realization ignited my passion to be on the frontlines of creation, contributing to solutions that address the needs of often overlooked populations.
+Hello, I'm Natalie Stone, a dedicated software developer with a purpose of amplifying access and opportunities through purposeful code. Equipped with a Bachelor's degree in Sociology, a Master's degree in Student Affairs Administration, and certifications as a Project Management and Change Management Professional, my journey spans over 15 years in higher education. I also served over 21 years in the Army National Guard as a musician, prior to retiring. Whether it's solving problems or fostering creativity, I've witnessed firsthand the impact of software applications. This realization ignited my passion to be on the frontlines of creation, contributing to solutions that address the needs of often overlooked populations.
 
 I bring a unique blend of technical expertise and a deep understanding of diverse communities, making me not just a software developer but a bridge between technology and societal needs. Let’s explore how intentional code can be a catalyst for positive change.
 
