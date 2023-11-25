@@ -1,4 +1,4 @@
-# portfolio-prep
+# Portfolio Prep
 Comprehensive portfolio for Natalie Stone
 
 ## Overview
